@@ -1,0 +1,27 @@
+{
+  "name": "Liri-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wvivas123/Liri-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wvivas123/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/Wvivas123/Liri-Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1",
+    "omdb": "^0.8.0"
+  }
+}
